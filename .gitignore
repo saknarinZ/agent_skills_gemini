@@ -1,0 +1,7 @@
+nexus-3d/
+node_modules/
+.DS_Store
+.env
+dist/
+build/
+coverage/
