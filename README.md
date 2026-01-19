@@ -1,6 +1,6 @@
 # Agent Skills & Configuration (Gemini) 🚀
 
-This repository contains the **Agent Skills**, **Workflows**, and **Configurations** used by the Gemini AI Agent for the **Nexus-3D** and related projects.
+This repository contains the **Agent Skills**, **Workflows**, and **Configurations** used by the Gemini AI Agent for **Agentic Coding** and related projects.
 
 These resources allow the agent to perform specialized tasks, follow standard procedures, and maintain high-quality code generation.
 
